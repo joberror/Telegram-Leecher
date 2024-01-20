@@ -10,8 +10,7 @@ opencv-python
 Pillow
 psutil
 pytz
-pyrogram
-pyrofork
+git+https://github.com/MKN-BOTZ/pyrogram
 requests
 tgcrypto
 uvloop
